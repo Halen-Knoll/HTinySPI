@@ -1,0 +1,24 @@
+{
+    "name": "HTinySPI",
+    "version": "1.0.0",
+    "description": "SPI library for the ATTiny48 chip. Compatible, however not tested with other ATTiny microcontrollers.",
+    "keywords": "spi, attiny48, attiny",
+    "repository":
+    {
+    "type": "git",
+    "url": "https://github.com/Halen-Knoll/HTinySPI.git"
+    },
+    "authors":
+    [
+    {
+    "name": "Halen Knoll",
+    "email": "halen@hktechnologies.ca",
+    "url": "http://www.hktechnologies.ca",
+    "maintainer": true
+    }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/Halen-Knoll/HTinySPI.git",
+    "frameworks": "*",
+    "platforms": "atmelavr"
+    }
