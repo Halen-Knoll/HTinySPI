@@ -1,6 +1,8 @@
 #ifndef TINYSPI_H_INCLUDED
 #define TINYSPI_H_INCLUDED
 
+#include <Arduino.h>
+
 #define SPI_DDR DDRD
 #define MOSI_DR PB3
 #define MISO_DR PB4
