@@ -1,4 +1,4 @@
-.pio
-.vscode
-library.json
-platformio.ini
+/.pio
+/.vscode
+/library.json
+/platformio.ini
